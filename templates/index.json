@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "hero": {
@@ -5,14 +14,13 @@
       "settings": {
         "heading": "Hi There! Welcome To You Are!",
         "para": "Where every time we make a sale, a box is donated to a child in a low-income area.",
-        "btn_link": "shopify:\/\/products\/you-are-10-piece-crayons",
+        "btn_link": "shopify://products/10-piece-crayons",
         "btn_text": "Buy Now"
       }
     },
     "girl": {
       "type": "girl",
-      "settings": {
-      }
+      "settings": {}
     },
     "logo-list": {
       "type": "logo-list",
@@ -28,61 +36,61 @@
         "a21a0b93-663a-4851-9b44-8b7cfeb21977": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/crayon-1.jpg"
+            "image": "shopify://shop_images/crayon-1.jpg"
           }
         },
         "0b1ea854-0243-41c8-9b21-1f8617e9730c": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/crayon-7.jpg"
+            "image": "shopify://shop_images/crayon-7.jpg"
           }
         },
         "3d6c70b0-cff8-4be2-811e-08707f42f4a7": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/crayon-4.jpg"
+            "image": "shopify://shop_images/crayon-4.jpg"
           }
         },
         "8af82a24-d8b2-4ff0-b725-501a8eb10bea": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/crayon-8.jpg"
+            "image": "shopify://shop_images/crayon-8.jpg"
           }
         },
         "4bfa38ab-7a98-42bf-95cb-3b5371d80663": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/crayon-5.jpg"
+            "image": "shopify://shop_images/crayon-5.jpg"
           }
         },
         "9f7c8dbe-fbd9-49a8-a164-540dd1712c7d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/crayon-2.jpg"
+            "image": "shopify://shop_images/crayon-2.jpg"
           }
         },
         "2e5493a2-8d77-4d06-93ca-dbaadbdd8972": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/crayon-9.jpg"
+            "image": "shopify://shop_images/crayon-9.jpg"
           }
         },
         "8d9df4d5-5c3c-4c49-8641-1737e57f51cd": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/crayon-10.jpg"
+            "image": "shopify://shop_images/crayon-10.jpg"
           }
         },
         "a35d9a58-c321-4005-83ba-5ef454ba6c79": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/crayon-6.jpg"
+            "image": "shopify://shop_images/crayon-6.jpg"
           }
         },
         "cd6cf20f-5fcf-4bff-985a-4ae6fab363da": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/crayon-3.jpg"
+            "image": "shopify://shop_images/crayon-3.jpg"
           }
         }
       },
@@ -98,21 +106,19 @@
         "a35d9a58-c321-4005-83ba-5ef454ba6c79",
         "cd6cf20f-5fcf-4bff-985a-4ae6fab363da"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "image-with-text": {
       "type": "image-with-text",
       "settings": {
-        "btn_link": "shopify:\/\/products\/you-are-10-piece-crayons",
+        "btn_link": "shopify://products/10-piece-crayons",
         "btn_text": "Buy Now",
         "para": "The You Are Brand is committed to community and giving back! Every time we receive an order, a box will be given to an underprivileged Child. They too need to know that they are beautiful, talented, valued and much more!"
       }
     },
     "newsletter": {
       "type": "newsletter",
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
