@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "hero": {
@@ -5,14 +14,13 @@
       "settings": {
         "heading": "Hi There! Welcome To You Are!",
         "para": "Where everytime we make  sale, a box is donated to a child in a low income area.",
-        "btn_link": "shopify:\/\/products\/you-are-10-piece-crayons",
+        "btn_link": "shopify://products/10-piece-crayons",
         "btn_text": "Buy Now"
       }
     },
     "girl": {
       "type": "girl",
-      "settings": {
-      }
+      "settings": {}
     },
     "logo-list": {
       "type": "logo-list",
@@ -24,20 +32,18 @@
     },
     "affirmations": {
       "type": "affirmations",
-      "settings": {
-      }
+      "settings": {}
     },
     "image-with-text": {
       "type": "image-with-text",
       "settings": {
-        "btn_link": "shopify:\/\/products\/you-are-10-piece-crayons",
+        "btn_link": "shopify://products/10-piece-crayons",
         "btn_text": "Buy Now"
       }
     },
     "newsletter": {
       "type": "newsletter",
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
