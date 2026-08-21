@@ -14,7 +14,7 @@
       "settings": {
         "heading": "Hi There! Welcome To You Are!",
         "para": "Where every time we make a sale, a box is donated to a child in a low-income area.",
-        "btn_link": "shopify://products/affirmation-crayons-for-kids",
+        "btn_link": "shopify://products/10-piece-affirmation-crayons-for-kids",
         "btn_text": "Buy Now"
       }
     },
@@ -111,7 +111,7 @@
     "image-with-text": {
       "type": "image-with-text",
       "settings": {
-        "btn_link": "shopify://products/affirmation-crayons-for-kids",
+        "btn_link": "shopify://products/10-piece-affirmation-crayons-for-kids",
         "btn_text": "Buy Now",
         "para": "The You Are Brand is committed to community and giving back! Every time we receive an order, a box will be given to an underprivileged Child. They too need to know that they are beautiful, talented, valued and much more!"
       }
