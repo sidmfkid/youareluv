@@ -14,7 +14,7 @@
       "settings": {
         "heading": "Hi There! Welcome To You Are!",
         "para": "Where everytime we make  sale, a box is donated to a child in a low income area.",
-        "btn_link": "shopify://products/10-piece-crayons",
+        "btn_link": "shopify://products/affirmation-crayons-for-kids",
         "btn_text": "Buy Now"
       }
     },
@@ -37,7 +37,7 @@
     "image-with-text": {
       "type": "image-with-text",
       "settings": {
-        "btn_link": "shopify://products/10-piece-crayons",
+        "btn_link": "shopify://products/affirmation-crayons-for-kids",
         "btn_text": "Buy Now"
       }
     },
